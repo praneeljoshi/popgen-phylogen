@@ -1,0 +1,3 @@
+<beast namespace="beast.core:beast.app" version="2.4">
+    <run id="network.summary" spec="speciesnetwork.tools.SummarizePosterior" inputFileName="netsim/sim0.trees" outputFileName="netsim/popped0.trees" burnin="0" />
+</beast>

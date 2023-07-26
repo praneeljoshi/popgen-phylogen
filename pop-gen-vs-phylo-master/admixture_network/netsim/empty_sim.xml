@@ -1,0 +1,11 @@
+<beast namespace="beast.core:beast.evolution.alignment:beast.app" version="2.4">
+    <run id="networkSimulator" outputFileName="netsim/sim0.trees" iterations="100" spec="speciesnetwork.simulator.BirthHybridSimulator">
+        <speciesNetwork id="network:species" spec="speciesnetwork.Network">
+            <taxonset id="taxonSuperset" spec="TaxonSet">
+            </taxonset>
+        </speciesNetwork>
+        <parameter id="time.origin" name="origin">0.1</parameter>
+        <parameter id="rate.birth" name="birthRate">20</parameter>
+        <parameter id="rate.hybrid" name="hybridRate">10</parameter>
+    </run>
+</beast>

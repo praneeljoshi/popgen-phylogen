@@ -1,0 +1,62 @@
+method: average distance (standard deviation)
+
+Population count: 4
+
+"gtmix": 5.0 (1.632993161855452)
+"phylonet_mcmc_bimarkers": 3.6 (0.5163977794943222)
+"phylonet_mle_bimarkers": 3.6 (0.5163977794943222)
+"treemix": 5.5 (1.0801234497346435)
+
+Population count: 6
+
+"gtmix": 7.6 (0.699205898780101)
+"phylonet_mcmc_bimarkers": 5.7 (0.9486832980505138)
+"phylonet_mle_bimarkers": 7.2 (1.6193277068654826)
+"treemix": 7.7 (0.9486832980505138)
+
+Population count: 8
+
+"gtmix": 8.5 (1.509230856356236)
+"phylonet_mcmc_bimarkers": 7.4 (1.505545305418162)
+"phylonet_mle_bimarkers": 8.8 (1.3984117975602022)
+"treemix": 9.4 (1.07496769977314)
+
+Population count: 10
+
+"gtmix": 10.9 (1.1005049346146119)
+"phylonet_mcmc_bimarkers": 10.2 (0.4472135954999579)
+"phylonet_mle_bimarkers": 10.333333333333334 (1.6583123951777)
+"treemix": 10.8 (1.398411797560202)
+
+1 allele per population
+50 loci
+1 admixture node
+
+-----------------------------------------------------------------------
+
+method: average distance (standard deviation)
+
+Admixture count: 0
+
+"gtmix": 3.7 (1.0593499054713802)
+"phylonet_mcmc_bimarkers": 3.7 (1.5670212364724212)
+"phylonet_mle_bimarkers": 4.3 (2.110818693198342)
+"treemix": 3.9 (1.1005049346146119)
+
+Admixture count: 1
+
+"gtmix": 6.8 (1.4757295747452437)
+"phylonet_mcmc_bimarkers": 5.4 (1.2649110640673518)
+"phylonet_mle_bimarkers": 7.7 (0.6749485577105528)
+"treemix": 7.6 (0.5163977794943222)
+
+Admixture count: 2
+
+"gtmix": 10.0 (1.632993161855452)
+"phylonet_mcmc_bimarkers": 8.2 (0.7888106377466155)
+"phylonet_mle_bimarkers": 10.1 (1.1972189997378648)
+"treemix": 9.6 (1.2649110640673518)
+
+1 allele per population
+50 loci
+6 populations
